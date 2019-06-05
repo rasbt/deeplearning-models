@@ -11,7 +11,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Softmax Regression (Multinomial Logistic Regression) [[TensorFlow 1](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/softmax-regression.ipynb)]
 
 ## Multilayer Perceptrons
- 
+
 - Multilayer Perceptron [[TensorFlow 1](tensorflow1_ipynb/mlp/mlp-basic.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-basic.ipynb)]
 - Multilayer Perceptron with Dropout [[TensorFlow 1](tensorflow1_ipynb/mlp/mlp-dropout.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-dropout.ipynb)]
 - Multilayer Perceptron with Batch Normalization [[TensorFlow 1](tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-batchnorm.ipynb)]
@@ -113,6 +113,18 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### Many-to-Many / Sequence-to-Sequence
 
 - A simple character RNN to generate new text (Charles Dickens) [[PyTorch](pytorch_ipynb/rnn/char_rnn-charlesdickens.ipynb)]
+
+
+
+## Ordinal Regression
+
+- Ordinal Regression CNN -- CORAL w. ResNet34 on AFAD-Lite [[PyTorch](pytorch_ipynb/ordinal/ordinal-cnn-coral-afadlite.ipynb)]
+- Ordinal Regression CNN -- Niu et al. 2016 w. ResNet34 on AFAD-Lite [[PyTorch](pytorch_ipynb/ordinal/ordinal-cnn-niu-afadlite.ipynb)]
+- Ordinal Regression CNN -- Beckham and Pal 2016 w. ResNet34 on AFAD-Lite [[PyTorch](pytorch_ipynb/ordinal/ordinal-cnn-niu-afadlite.ipynb)]
+
+
+
+
 
 
 ## Tips and Tricks
