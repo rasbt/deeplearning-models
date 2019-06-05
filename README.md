@@ -6,16 +6,16 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Traditional Machine Learning
 
-- Perceptron [[TensorFlow 1](tensorflow_ipynb/basic-ml/perceptron.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/perceptron.ipynb)]
-- Logistic Regression [[TensorFlow 1](tensorflow_ipynb/basic-ml/logistic-regression.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/logistic-regression.ipynb)]
-- Softmax Regression (Multinomial Logistic Regression) [[TensorFlow 1](tensorflow_ipynb/basic-ml/softmax-regression.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/softmax-regression.ipynb)]
+- Perceptron [[TensorFlow 1](tensorflow1_ipynb/basic-ml/perceptron.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/perceptron.ipynb)]
+- Logistic Regression [[TensorFlow 1](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/logistic-regression.ipynb)]
+- Softmax Regression (Multinomial Logistic Regression) [[TensorFlow 1](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb)] [[PyTorch](pytorch_ipynb/basic-ml/softmax-regression.ipynb)]
 
 ## Multilayer Perceptrons
  
-- Multilayer Perceptron [[TensorFlow 1](tensorflow_ipynb/mlp/mlp-basic.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-basic.ipynb)]
-- Multilayer Perceptron with Dropout [[TensorFlow 1](tensorflow_ipynb/mlp/mlp-dropout.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-dropout.ipynb)]
-- Multilayer Perceptron with Batch Normalization [[TensorFlow 1](tensorflow_ipynb/mlp/mlp-batchnorm.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-batchnorm.ipynb)]
-- Multilayer Perceptron with Backpropagation from Scratch [[TensorFlow 1](tensorflow_ipynb/mlp/mlp-lowlevel.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)]
+- Multilayer Perceptron [[TensorFlow 1](tensorflow1_ipynb/mlp/mlp-basic.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-basic.ipynb)]
+- Multilayer Perceptron with Dropout [[TensorFlow 1](tensorflow1_ipynb/mlp/mlp-dropout.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-dropout.ipynb)]
+- Multilayer Perceptron with Batch Normalization [[TensorFlow 1](tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-batchnorm.ipynb)]
+- Multilayer Perceptron with Backpropagation from Scratch [[TensorFlow 1](tensorflow1_ipynb/mlp/mlp-lowlevel.ipynb)] [[PyTorch](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)]
 
 
 ## Convolutional Neural Networks
@@ -23,7 +23,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Basic
 
-- Convolutional Neural Network [[TensorFlow 1](tensorflow_ipynb/cnn/convnet.ipynb)] [[PyTorch](pytorch_ipynb/cnn/cnn-basic.ipynb)]
+- Convolutional Neural Network [[TensorFlow 1](tensorflow1_ipynb/cnn/convnet.ipynb)] [[PyTorch](pytorch_ipynb/cnn/cnn-basic.ipynb)]
 - Convolutional Neural Network with He Initialization  [[PyTorch](pytorch_ipynb/cnn-he-init.ipynb)]
 
 #### Concepts
@@ -41,7 +41,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### VGG
 
-- Convolutional Neural Network VGG-16 [[TensorFlow 1](tensorflow_ipynb/cnn/cnn-vgg16.ipynb)] [[PyTorch](pytorch_ipynb/cnn/cnn-vgg16.ipynb)]
+- Convolutional Neural Network VGG-16 [[TensorFlow 1](tensorflow1_ipynb/cnn/cnn-vgg16.ipynb)] [[PyTorch](pytorch_ipynb/cnn/cnn-vgg16.ipynb)]
 - VGG-16 Gender Classifier Trained on CelebA [[PyTorch](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb)]
 - Convolutional Neural Network VGG-19 [[PyTorch](pytorch_ipynb/cnn/cnn-vgg19.ipynb)]
 
@@ -64,19 +64,19 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Metric Learning
 
-- Siamese Network with Multilayer Perceptrons [[TensorFlow 1](tensorflow_ipynb/metric/siamese-1.ipynb)]
+- Siamese Network with Multilayer Perceptrons [[TensorFlow 1](tensorflow1_ipynb/metric/siamese-1.ipynb)]
 
 ## Autoencoders
 
 #### Fully-connected Autoencoders
 
-- Autoencoder [[TensorFlow 1](tensorflow_ipynb/autoencoder/autoencoder.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-basic.ipynb)]
+- Autoencoder [[TensorFlow 1](tensorflow1_ipynb/autoencoder/autoencoder.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-basic.ipynb)]
 
 #### Convolutional Autoencoders
 
-- Convolutional Autoencoder with Deconvolutions / Transposed Convolutions[[TensorFlow 1](tensorflow_ipynb/autoencoder/ae-deconv.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-deconv.ipynb)]
+- Convolutional Autoencoder with Deconvolutions / Transposed Convolutions[[TensorFlow 1](tensorflow1_ipynb/autoencoder/ae-deconv.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-deconv.ipynb)]
 - Convolutional Autoencoder with Deconvolutions (without pooling operations) [[PyTorch](pytorch_ipynb/autoencoder/aer-deconv-nopool.ipynb)]
-- Convolutional Autoencoder with Nearest-neighbor Interpolation [[TensorFlow 1](tensorflow_ipynb/autoencoder/autoencoder-conv-nneighbor.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor.ipynb)]
+- Convolutional Autoencoder with Nearest-neighbor Interpolation [[TensorFlow 1](tensorflow1_ipynb/autoencoder/autoencoder-conv-nneighbor.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor.ipynb)]
 - Convolutional Autoencoder with Nearest-neighbor Interpolation -- Trained on CelebA [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor-celeba.ipynb)]
 - Convolutional Autoencoder with Nearest-neighbor Interpolation -- Trained on Quickdraw [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor-quickdraw-1.ipynb)]
 
@@ -94,8 +94,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## General Adversarial Networks
 
-- General Adversarial Networks [[TensorFlow 1](tensorflow_ipynb/gan/gan.ipynb)] [[PyTorch](pytorch_ipynb/gan/gan.ipynb)]
-- Convolutional General Adversarial Networks [[TensorFlow 1](tensorflow_ipynb/gan/gan-conv.ipynb)]
+- Fully Connected GAN on MNIST [[TensorFlow 1](tensorflow1_ipynb/gan/gan.ipynb)] [[PyTorch](pytorch_ipynb/gan/gan.ipynb)]
+- Convolutional GAN on MNIST [[TensorFlow 1](tensorflow1_ipynb/gan/gan-conv.ipynb)]
 
 ## Recurrent Neural Networks (RNNs)
 
@@ -158,14 +158,14 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Custom Datasets
 
-- Chunking an Image Dataset for Minibatch Training using NumPy NPZ Archives [[TensorFlow 1](tensorflow_ipynb/mechanics/image-data-chunking-npz.ipynb)]
-- Storing an Image Dataset for Minibatch Training using HDF5 [[TensorFlow 1](tensorflow_ipynb/mechanics/image-data-chunking-hdf5.ipynb)]
-- Using Input Pipelines to Read Data from TFRecords Files [[TensorFlow 1](tensorflow_ipynb/mechanics/tfrecords.ipynb)]
-- Using Queue Runners to Feed Images Directly from Disk [[TensorFlow 1](tensorflow_ipynb/mechanics/file-queues.ipynb)]
-- Using TensorFlow's Dataset API [[TensorFlow 1](tensorflow_ipynb/mechanics/dataset-api.ipynb)]
+- Chunking an Image Dataset for Minibatch Training using NumPy NPZ Archives [[TensorFlow 1](tensorflow1_ipynb/mechanics/image-data-chunking-npz.ipynb)]
+- Storing an Image Dataset for Minibatch Training using HDF5 [[TensorFlow 1](tensorflow1_ipynb/mechanics/image-data-chunking-hdf5.ipynb)]
+- Using Input Pipelines to Read Data from TFRecords Files [[TensorFlow 1](tensorflow1_ipynb/mechanics/tfrecords.ipynb)]
+- Using Queue Runners to Feed Images Directly from Disk [[TensorFlow 1](tensorflow1_ipynb/mechanics/file-queues.ipynb)]
+- Using TensorFlow's Dataset API [[TensorFlow 1](tensorflow1_ipynb/mechanics/dataset-api.ipynb)]
 
 #### Training and Preprocessing
 
-- Saving and Loading Trained Models -- from TensorFlow Checkpoint Files and NumPy NPZ Archives [[TensorFlow 1](tensorflow_ipynb/mechanics/saving-and-reloading-models.ipynb)]
+- Saving and Loading Trained Models -- from TensorFlow Checkpoint Files and NumPy NPZ Archives [[TensorFlow 1](tensorflow1_ipynb/mechanics/saving-and-reloading-models.ipynb)]
 
 
