@@ -1,3 +1,41 @@
+# Datasets
+cifar-10-batches-py
+celeba_gender_attr_test.txt
+celeba_gender_attr_train.txt
+iris.h5
+test_32x32.mat
+train_32x32.mat
+code/model_zoo/pytorch_ipynb/svhn_cropped/
+list_attr_celeba.txt 
+list_eval_partition.txt
+img_align_celeba
+quickdraw-*
+*.csv
+*.zip
+*.npz
+*.npy
+*.tar.gz
+*ubyte.gz
+*archive.ics.uci.edu*
+code/model_zoo/cifar-10
+code/model_zoo/pytorch_ipynb/data
+
+# Binary PyTorch models
+*.pt
+
+# Temporary OS files
+.DS_Store
+
+# TensorFlow Checkpoint files
+checkpoint
+code/*/*.data-?????-of-?????
+code/*/*.index
+code/*/*.meta
+code/model_zoo/tensorflow_ipynb/*.data-?????-of-?????
+code/model_zoo/tensorflow_ipynb/*.index
+code/model_zoo/tensorflow_ipynb/*.meta
+code/model_zoo/tensorflow_ipynb/cifar-10/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -8,6 +46,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+env/
 build/
 develop-eggs/
 dist/
@@ -19,11 +58,9 @@ lib64/
 parts/
 sdist/
 var/
-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -43,9 +80,8 @@ htmlcov/
 .cache
 nosetests.xml
 coverage.xml
-*.cover
+*,cover
 .hypothesis/
-.pytest_cache/
 
 # Translations
 *.mo
@@ -54,7 +90,6 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
 
 # Flask stuff:
 instance/
@@ -69,7 +104,7 @@ docs/_build/
 # PyBuilder
 target/
 
-# Jupyter Notebook
+# IPython Notebook
 .ipynb_checkpoints
 
 # pyenv
@@ -78,27 +113,18 @@ target/
 # celery beat schedule file
 celerybeat-schedule
 
-# SageMath parsed files
-*.sage.py
-
-# Environments
+# dotenv
 .env
-.venv
-env/
+
+# virtualenv
 venv/
 ENV/
-env.bak/
-venv.bak/
 
 # Spyder project settings
 .spyderproject
-.spyproject
 
 # Rope project settings
 .ropeproject
 
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
+# Datasets
+MNIST*
