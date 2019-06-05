@@ -82,7 +82,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Variational Autoencoders
 
-- Variational Autoencoder [[PyTorch](pytorch_ipynb/autoencoder/aevar.ipynb)]
+- Variational Autoencoder [[PyTorch](pytorch_ipynb/autoencoder/ae-var.ipynb)]
 - Convolutional Variational Autoencoder [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-var.ipynb)]
 
 #### Conditional Variational Autoencoders
