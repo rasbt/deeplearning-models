@@ -92,7 +92,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Convolutional Conditional Variational Autoencoder (with labels in reconstruction loss) [[PyTorch](pytorch_ipynb/autoencoder/ae-cnn-cvae.ipynb)]
 - Convolutional Conditional Variational Autoencoder (without labels in reconstruction loss) [[PyTorch](pytorch_ipynb/autoencoder/ae-cnn-cvae_no-out-concat.ipynb)]
 
-## General Adversarial Networks (GANs)
+## Generative Adversarial Networks (GANs)
 
 - Fully Connected GAN on MNIST [[TensorFlow 1](tensorflow1_ipynb/gan/gan.ipynb)] [[PyTorch](pytorch_ipynb/gan/gan.ipynb)]
 - Convolutional GAN on MNIST [[TensorFlow 1](tensorflow1_ipynb/gan/gan-conv.ipynb)] [[PyTorch](pytorch_ipynb/gan/gan-conv.ipynb)]
