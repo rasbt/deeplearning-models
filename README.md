@@ -23,7 +23,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Basic
 
-- Convolutional Neural Network [[TensorFlow 1](tensorflow1_ipynb/cnn/convnet.ipynb)] [[PyTorch](pytorch_ipynb/cnn/cnn-basic.ipynb)]
+- Convolutional Neural Network [[TensorFlow 1](tensorflow1_ipynb/cnn/cnn-basic.ipynb)] [[PyTorch](pytorch_ipynb/cnn/cnn-basic.ipynb)]
 - Convolutional Neural Network with He Initialization  [[PyTorch](pytorch_ipynb/cnn/cnn-he-init.ipynb)]
 
 #### Concepts
