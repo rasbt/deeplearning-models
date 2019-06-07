@@ -70,13 +70,13 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Fully-connected Autoencoders
 
-- Autoencoder [[TensorFlow 1](tensorflow1_ipynb/autoencoder/autoencoder.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-basic.ipynb)]
+- Autoencoder [[TensorFlow 1](tensorflow1_ipynb/autoencoder/ae-basic.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-basic.ipynb)]
 
 #### Convolutional Autoencoders
 
 - Convolutional Autoencoder with Deconvolutions / Transposed Convolutions[[TensorFlow 1](tensorflow1_ipynb/autoencoder/ae-deconv.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-deconv.ipynb)]
-- Convolutional Autoencoder with Deconvolutions (without pooling operations) [[PyTorch](pytorch_ipynb/autoencoder/aer-deconv-nopool.ipynb)]
-- Convolutional Autoencoder with Nearest-neighbor Interpolation [[TensorFlow 1](tensorflow1_ipynb/autoencoder/autoencoder-conv-nneighbor.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor.ipynb)]
+- Convolutional Autoencoder with Deconvolutions (without pooling operations) [[PyTorch](pytorch_ipynb/autoencoder/ae-deconv-nopool.ipynb)]
+- Convolutional Autoencoder with Nearest-neighbor Interpolation [[TensorFlow 1](tensorflow1_ipynb/autoencoder/ae-conv-nneighbor.ipynb)] [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor.ipynb)]
 - Convolutional Autoencoder with Nearest-neighbor Interpolation -- Trained on CelebA [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor-celeba.ipynb)]
 - Convolutional Autoencoder with Nearest-neighbor Interpolation -- Trained on Quickdraw [[PyTorch](pytorch_ipynb/autoencoder/ae-conv-nneighbor-quickdraw-1.ipynb)]
 
@@ -140,7 +140,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- CSV files converted to HDF5 [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader-csv.ipynb)]
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- Face Images from CelebA [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader-celeba.ipynb)]
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- Drawings from Quickdraw [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader-quickdraw.ipynb)]
-- Using PyTorch Dataset Loading Utilities for Custom Datasets -- Drawings from the Street View House Number (SVHN) Dataset [[PyTorch](pytorch_ipynb/custom-data-loader-svhn.ipynb)]
+- Using PyTorch Dataset Loading Utilities for Custom Datasets -- Drawings from the Street View House Number (SVHN) Dataset [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader-svhn.ipynb)]
 
 #### Training and Preprocessing
 
