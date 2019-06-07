@@ -31,9 +31,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Replacing Fully-Connnected by Equivalent Convolutional Layers [[PyTorch](pytorch_ipynb/cnn/fc-to-conv.ipynb)]
 
 
-#### All-Convolutional
+#### Fully Convolutional
 
-- All-Convolutional Neural Network [[PyTorch](pytorch_ipynb/cnn/cnn-allconv.ipynb)]
+- Fully Convolutional Neural Network [[PyTorch](pytorch_ipynb/cnn/cnn-allconv.ipynb)]
 
 #### AlexNet
 
