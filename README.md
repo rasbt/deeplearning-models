@@ -106,6 +106,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - A simple single-layer RNN (IMDB) [[PyTorch](pytorch_ipynb/rnn/rnn_simple_imdb.ipynb)]
 - A simple single-layer RNN with packed sequences to ignore padding characters (IMDB) [[PyTorch](pytorch_ipynb/rnn/rnn_simple_packed_imdb.ipynb)]
 - RNN with LSTM cells (IMDB) [[PyTorch](pytorch_ipynb/rnn/rnn_lstm_packed_imdb.ipynb)]
+- RNN with LSTM cells (IMDB) and pre-trained GloVe word vectors [[PyTorch](pytorch_ipynb/rnn/rnn_lstm_packed_imdb-glove.ipynb)]
 - RNN with LSTM cells and Own Dataset in CSV Format (IMDB) [[PyTorch](pytorch_ipynb/rnn/rnn_lstm_packed_own_csv_imdb.ipynb)]
 - RNN with GRU cells (IMDB) [[PyTorch](pytorch_ipynb/rnn/rnn_gru_packed_imdb.ipynb)]
 - Multilayer bi-directional RNN (IMDB) [[PyTorch](pytorch_ipynb/rnn/rnn_gru_packed_imdb.ipynb)]
