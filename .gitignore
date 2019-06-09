@@ -1,4 +1,6 @@
 # Datasets
+pytorch_ipynb/rnn/.data/
+pytorch_ipynb/rnn/.vector_cache/
 cifar-10-batches-py
 celeba_gender_attr_test.txt
 celeba_gender_attr_train.txt
