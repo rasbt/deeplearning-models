@@ -158,7 +158,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Other 
 
-- Sequential API and hooks  [[PyTorch](pytorch_ipynb/mlp/mlp-sequential.ipynb)]
+- Sequential API and hooks  [[PyTorch](pytorch_ipynb/mechanics/mlp-sequential.ipynb)]
 - Weight Sharing Within a Layer  [[PyTorch](pytorch_ipynb/mechanics/cnn-weight-sharing.ipynb)]
 - Plotting Live Training Performance in Jupyter Notebooks with just Matplotlib  [[PyTorch](pytorch_ipynb/mechanics/plot-jupyter-matplotlib.ipynb)]
 
