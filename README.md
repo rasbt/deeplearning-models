@@ -145,6 +145,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Training and Preprocessing
 
+- Generating Validation Set Splits [[PyTorch]](pytorch_ipynb/mechanics/validation-splits.ipynb)]
 - Dataloading with Pinned Memory [[PyTorch](pytorch_ipynb/cnn/cnn-resnet34-cifar10-pinmem.ipynb)]
 - Standardizing Images [[PyTorch](pytorch_ipynb/cnn/cnn-standardized.ipynb)]
 - Image Transformation Examples [[PyTorch](pytorch_ipynb/mechanics/torchvision-transform-examples.ipynb)]
