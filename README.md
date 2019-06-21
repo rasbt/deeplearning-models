@@ -55,6 +55,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - ResNet-50 Digit Classifier Trained on MNIST [[PyTorch](pytorch_ipynb/cnn/cnn-resnet50-mnist.ipynb)]
 - ResNet-50 Gender Classifier Trained on CelebA [[PyTorch](pytorch_ipynb/cnn/cnn-resnet50-celeba-dataparallel.ipynb)]
 - ResNet-101 Gender Classifier Trained on CelebA [[PyTorch](pytorch_ipynb/cnn/cnn-resnet101-celeba.ipynb)]
+- ResNet-101 Trained on CIFAR-10 [[PyTorch](pytorch_ipynb/cnn/cnn-resnet101-cifar10.ipynb)]
 - ResNet-152 Gender Classifier Trained on CelebA [[PyTorch](pytorch_ipynb/cnn/cnn-resnet152-celeba.ipynb)]
 
 #### Network in Network
