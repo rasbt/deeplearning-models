@@ -1,4 +1,7 @@
 # Datasets
+
+AFAD-Lite
+tarball*
 pytorch_ipynb/rnn/.data/
 pytorch_ipynb/rnn/.vector_cache/
 cifar-10-batches-py
