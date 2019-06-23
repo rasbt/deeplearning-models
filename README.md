@@ -122,7 +122,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Ordinal Regression CNN -- CORAL w. ResNet34 on AFAD-Lite [[PyTorch](pytorch_ipynb/ordinal/ordinal-cnn-coral-afadlite.ipynb)]
 - Ordinal Regression CNN -- Niu et al. 2016 w. ResNet34 on AFAD-Lite [[PyTorch](pytorch_ipynb/ordinal/ordinal-cnn-niu-afadlite.ipynb)]
-- Ordinal Regression CNN -- Beckham and Pal 2016 w. ResNet34 on AFAD-Lite [[PyTorch](pytorch_ipynb/ordinal/ordinal-cnn-niu-afadlite.ipynb)]
+- Ordinal Regression CNN -- Beckham and Pal 2016 w. ResNet34 on AFAD-Lite [[PyTorch](pytorch_ipynb/ordinal/ordinal-cnn-beckham2016-afadlite.ipynb)]
 
 
 
