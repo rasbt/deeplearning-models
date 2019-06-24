@@ -144,6 +144,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- Drawings from Quickdraw [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader-quickdraw.ipynb)]
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- Drawings from the Street View House Number (SVHN) Dataset [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader-svhn.ipynb)]
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- Asian Face Dataset (AFAD) [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader-afad.ipynb)]
+- Using PyTorch Dataset Loading Utilities for Custom Datasets -- Dating Historical Color Images [[PyTorch](pytorch_ipynb/mechanics/custom-data-loader_dating-historical-color-images.ipynb)]
 
 #### Training and Preprocessing
 
