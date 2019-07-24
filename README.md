@@ -45,6 +45,11 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - VGG-16 Gender Classifier Trained on CelebA [[PyTorch](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb)]
 - Convolutional Neural Network VGG-19 [[PyTorch](pytorch_ipynb/cnn/cnn-vgg19.ipynb)]
 
+#### DenseNet
+
+- DenseNet-121 Digit Classifier Trained on MNIST [[PyTorch](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb)]
+- DenseNet-121 Image Classifier Trained on CIFAR-10 [[PyTorch](pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb)]
+
 #### ResNet
 
 - ResNet and Residual Blocks [[PyTorch](pytorch_ipynb/cnn/resnet-ex-1.ipynb)]
