@@ -138,6 +138,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Cyclical Learning Rate [[PyTorch](pytorch_ipynb/tricks/cyclical-learning-rate.ipynb)]
 - Annealing with Increasing the Batch Size (w. CIFAR-10 & AlexNet) [[PyTorch](pytorch_ipynb/tricks/cnn-alexnet-cifar10-batchincrease.ipynb)]
+- Gradient Clipping (w. MLP on MNIST) [[PyTorch](pytorch_ipynb/tricks/gradclipping_mlp.ipynb)]
 
 
 
