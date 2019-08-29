@@ -35,6 +35,11 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Fully Convolutional Neural Network [[PyTorch](pytorch_ipynb/cnn/cnn-allconv.ipynb)]
 
+#### LeNet
+
+- LeNet-5 on MNIST [[PyTorch](pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb)]
+- LeNet-5 on CIFAR-10 [[PyTorch](pytorch_ipynb/cnn/cnn-lenet5-cifar10.ipynb)]
+
 #### AlexNet
 
 - AlexNet on CIFAR-10 [[PyTorch](pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb)]
