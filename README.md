@@ -163,12 +163,16 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Fully Connected GAN on MNIST   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/gan/gan.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/gan/gan.ipynb)]  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/gan.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/gan.ipynb)]
+- Fully Connected Wasserstein GAN on MNIST   
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/wgan-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/wgan-1.ipynb)]
 - Convolutional GAN on MNIST   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/gan/gan-conv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/gan/gan-conv.ipynb)]  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/gan-conv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/gan-conv.ipynb)]
 - Convolutional GAN on MNIST with Label Smoothing   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/gan/gan-conv-smoothing.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/gan/gan-conv-smoothing.ipynb)]  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/gan-conv-smoothing.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/gan-conv-smoothing.ipynb)]
+- Convolutional Wasserstein GAN on MNIST  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/dc-wgan-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/dc-wgan-1.ipynb)]
 
 ## Recurrent Neural Networks (RNNs)
 
