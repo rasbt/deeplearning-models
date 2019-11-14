@@ -130,7 +130,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Convolutional Autoencoder with Deconvolutions / Transposed Convolutions  
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/autoencoder/ae-deconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/autoencoder/ae-deconv.ipynb)]  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-deconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-deconv.ipynb)]
-- Convolutional Autoencoder with Deconvolutions and Continuous Jaccard Distance
+- Convolutional Autoencoder with Deconvolutions and Continuous Jaccard Distance  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-deconv-jaccard.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-deconv-jaccard.ipynb)]
 - Convolutional Autoencoder with Deconvolutions (without pooling operations)   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-deconv-nopool.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-deconv-nopool.ipynb)]
