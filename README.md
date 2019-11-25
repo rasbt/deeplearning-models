@@ -60,7 +60,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb)]
 - LeNet-5 on CIFAR-10   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-lenet5-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-cifar10.ipynb)]  
-- LeNet-5 on QuickDraw
+- LeNet-5 on QuickDraw  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
 
 #### AlexNet
@@ -125,9 +125,14 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Fully-connected Autoencoders
 
-- Autoencoder   
+- Autoencoder (MNIST)  
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/autoencoder/ae-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/autoencoder/ae-basic.ipynb)]  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-basic.ipynb)]
+- Autoencoder (MNIST) + Scikit-Learn Random Forest Classifier  
+&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/autoencoder/ae-basic-with-rf.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/autoencoder/ae-basic.ipynb)]  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/autoencoder/ae-basic-with-rf.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/autoencoder/ae-basic.ipynb)]
+
+
 
 #### Convolutional Autoencoders
 
