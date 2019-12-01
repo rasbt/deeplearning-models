@@ -1,5 +1,8 @@
 # Datasets
 
+pytorch_ipynb/rnn/yelp_review_polarity_csv/
+pytorch_ipynb/rnn/ag_news_csv/
+pytorch_ipynb/rnn/amazon_review_polarity_csv/
 HistoricalColor-ECCV2012*
 AFAD-Lite
 tarball*
