@@ -115,6 +115,14 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - Network in Network CIFAR-10 Classifier   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/nin-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10.ipynb)]  
 
+## Normalization Layers
+
+- BatchNorm before and after Activation for Network-in-Network CIFAR-10 Classifier     
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/nin-cifar10_batchnorm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10_batchnorm.ipynb)]  
+- Filter Response Normalization for Network-in-Network CIFAR-10 Classifier  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/nin-cifar10_filter-response-norm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10_filter-response-norm.ipynb)] 
+
+
 
 ## Metric Learning
 
