@@ -266,6 +266,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Custom Datasets
 
+- Custom Data Loader Example for PNG Files  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/custom-dataloader-png/custom-dataloader-example.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/custom-dataloader-png/custom-dataloader-example.ipynb)]
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- CSV files converted to HDF5   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/custom-data-loader-csv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/custom-data-loader-csv.ipynb)]
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- Face Images from CelebA   
