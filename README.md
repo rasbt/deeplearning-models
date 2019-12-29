@@ -14,7 +14,10 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/logistic-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/logistic-regression.ipynb)]
 - Softmax Regression (Multinomial Logistic Regression)  
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/softmax-regression.ipynb)]   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/softmax-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/softmax-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression.ipynb)]  
+- Softmax Regression with MLxtend's plot_decision_regions on Iris  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb)]
+
 
 ## Multilayer Perceptrons
 
