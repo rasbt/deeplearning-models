@@ -1,5 +1,5 @@
 # Datasets
-
+pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
 pytorch_ipynb/rnn/yelp_review_polarity_csv/
 pytorch_ipynb/rnn/ag_news_csv/
 pytorch_ipynb/rnn/amazon_review_polarity_csv/
@@ -31,6 +31,7 @@ code/model_zoo/pytorch_ipynb/data
 
 # Binary PyTorch models
 *.pt
+*.state_dict
 
 # Temporary OS files
 .DS_Store
