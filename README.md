@@ -197,6 +197,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/gan-conv-smoothing.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/gan-conv-smoothing.ipynb)]
 - Convolutional Wasserstein GAN on MNIST  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/dc-wgan-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/dc-wgan-1.ipynb)]
+- "Deep Convolutional GAN" (DCGAN) on Cats and Dogs Images  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/gan/dcgan-cats-and-dogs.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/gan/dcgan-cats-and-dogs.ipynb)]
 
 ## Graph Neural Networks (GNNs)
 

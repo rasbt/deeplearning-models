@@ -1,5 +1,7 @@
 # Datasets
 pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
+pytorch_ipynb/gan/dogs-vs-cats
+pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
 pytorch_ipynb/rnn/yelp_review_polarity_csv/
 pytorch_ipynb/rnn/ag_news_csv/
 pytorch_ipynb/rnn/amazon_review_polarity_csv/
