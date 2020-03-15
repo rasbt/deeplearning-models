@@ -300,6 +300,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/custom-data-loader-afad.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/custom-data-loader-afad.ipynb)]
 - Using PyTorch Dataset Loading Utilities for Custom Datasets -- Dating Historical Color Images   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/custom-data-loader_dating-historical-color-images.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/custom-data-loader_dating-historical-color-images.ipynb)]
+- Using PyTorch Dataset Loading Utilities for Custom Datasets -- Fashion MNIST   
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/custom-data-loader-quickdraw.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/custom-data-loader-quickdraw.ipynb)]
 
 #### Training and Preprocessing
 

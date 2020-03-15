@@ -1,4 +1,6 @@
 # Datasets
+png-files
+*-ubyte*
 pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
 pytorch_ipynb/gan/dogs-vs-cats
 pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
