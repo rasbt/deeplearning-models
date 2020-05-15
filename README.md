@@ -227,9 +227,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - RNN with LSTM cells and Own Dataset in CSV Format (IMDB)   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_lstm_packed_own_csv_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_lstm_packed_own_csv_imdb.ipynb)]
 - RNN with GRU cells (IMDB)   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_gru_packed_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb.ipynb)]
-- Multilayer bi-directional RNN (IMDB)   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_gru_packed_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_gru_packed_imdb.ipynb)]
+- Multilayer bi-directional RNN (IMDB)   
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_lstm_bi_imdb.ipynb)]
 - Bidirectional Multi-layer RNN with LSTM with Own Dataset in CSV Format (AG News)     
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_bi_multilayer_lstm_own_csv_agnews.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_bi_multilayer_lstm_own_csv_agnews.ipynb)]
 
