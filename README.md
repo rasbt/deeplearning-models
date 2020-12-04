@@ -322,6 +322,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Other 
 
+- PyTorch with and without Deterministic Behavior -- Runtime Benchmark
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/deterministic_benchmark.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/pytorch_ipynb/mechanics/deterministic_benchmark.ipynb)]
 - Sequential API and hooks    
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/mlp-sequential.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/mlp-sequential.ipynb)]
 - Weight Sharing Within a Layer    
