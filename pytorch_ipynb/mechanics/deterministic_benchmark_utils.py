@@ -9,56 +9,12 @@ from torchvision import transforms
 from torch.utils.data import DataLoader
 
 
-def compute_accuracy(model, data_loader, device):
-    model.eval()
-    correct_pred, num_examples = 0, 0
-    for i, (features, targets) in enumerate(data_loader):
-
-        features = features.to(device)
-        targets = targets.to(device)
-
-        logits, probas = model(features)
-        _, predicted_labels = torch.max(probas, 1)
-        num_examples += targets.size(0)
-        correct_pred += (predicted_labels == targets).sum()
-    return correct_pred.float()/num_examples * 100
 
 
-def compute_epoch_loss(model, data_loader, device):
-    model.eval()
-    curr_loss, num_examples = 0., 0
-    with torch.no_grad():
-        for features, targets in data_loader:
-            features = features.to(device)
-            targets = targets.to(device)
-            logits, probas = model(features)
-            loss = F.cross_entropy(logits, targets, reduction='sum')
-            num_examples += targets.size(0)
-            curr_loss += loss
-
-        curr_loss = curr_loss / num_examples
-        return curr_loss
 
 
-def get_dataloaders(batch_size):
-    train_dataset = datasets.CIFAR10(root='data',
-                                     train=True,
-                                     transform=transforms.ToTensor(),
-                                     download=True)
 
-    test_dataset = datasets.CIFAR10(root='data',
-                                    train=False,
-                                    transform=transforms.ToTensor())
 
-    train_loader = DataLoader(dataset=train_dataset,
-                              batch_size=batch_size,
-                              shuffle=True)
-
-    test_loader = DataLoader(dataset=test_dataset,
-                             batch_size=batch_size,
-                             shuffle=False)
-
-    return train_loader, test_loader
 
 
 def conv3x3(in_planes, out_planes, stride=1):
@@ -170,7 +126,7 @@ class ResNet(nn.Module):
         x = x.view(x.size(0), -1)
         logits = self.fc(x)
         probas = F.softmax(logits, dim=1)
-        return logits, probas
+        return logits
 
 
 
@@ -184,40 +140,4 @@ def resnet101(num_classes, grayscale):
 
 
 
-def train(num_epochs, train_loader, model, optimizer, device):
 
-    start_time = time.time()
-    for epoch in range(num_epochs):
-
-        model.train()
-        for batch_idx, (features, targets) in enumerate(train_loader):
-
-            features = features.to(device)
-            targets = targets.to(device)
-
-            # FORWARD AND BACK PROP
-            logits, probas = model(features)
-            cost = F.cross_entropy(logits, targets)
-            optimizer.zero_grad()
-
-            cost.backward()
-
-            # UPDATE MODEL PARAMETERS
-            optimizer.step()
-
-            # LOGGING
-            if not batch_idx % 200:
-                print('Epoch: %03d/%03d | Batch %04d/%04d | Loss: %.4f'
-                      % (epoch+1, num_epochs, batch_idx,
-                          len(train_loader), cost))
-
-        model.eval()
-        with torch.set_grad_enabled(False):  # save memory during inference
-            print('Epoch: %03d/%03d | Train: %.3f%% |  Loss: %.3f' % (
-                  epoch+1, num_epochs,
-                  compute_accuracy(model, train_loader, device),
-                  compute_epoch_loss(model, train_loader, device)))
-
-        print('Time elapsed: %.2f min' % ((time.time() - start_time)/60))
-
-    print('Total Training Time: %.2f min' % ((time.time() - start_time)/60))
