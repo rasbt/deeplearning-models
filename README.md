@@ -315,10 +315,15 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/rnn/rnn_lstm_packed_own_csv_imdb.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/rnn/rnn_lstm_packed_own_csv_imdb.ipynb)]
 
 
+#### Improving Memory Efficiency
+
+- Gradient Checkpointing Demo (Network-in-Network trained on CIFAR-10)
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16-celeba-data-parallel.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16-celeba-data-parallel.ipynb)]
+
 #### Parallel Computing
 
 - Using Multiple GPUs with DataParallel -- VGG-16 Gender Classifier on CelebA   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16-celeba-data-parallel.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16-celeba-data-parallel.ipynb)]
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/gradient-checkpointing-nin.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/gradient-checkpointing-nin.ipynb)]
 
 #### Other 
 

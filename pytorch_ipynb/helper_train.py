@@ -62,7 +62,7 @@ def train_classifier_simple_v1(num_epochs, model, optimizer, device,
                 
                 train_acc = compute_accuracy(model, train_loader, device)
                 train_loss = compute_epoch_loss(model, train_loader, device)
-                print('***Epoch: %03d/%03d | Train. Acc.: %.3f%% |  Loss: %.3f' % (
+                print('***Epoch: %03d/%03d | Train. Acc.: %.3f%% | Loss: %.3f' % (
                       epoch+1, num_epochs, train_acc, train_loss))
                 log_dict['train_loss_per_epoch'].append(train_loss.item())
                 log_dict['train_loss_per_epoch'].append(train_acc.item())
@@ -70,7 +70,7 @@ def train_classifier_simple_v1(num_epochs, model, optimizer, device,
                 if valid_loader is not None:
                     valid_acc = compute_accuracy(model, valid_loader, device)
                     valid_loss = compute_epoch_loss(model, valid_loader, device)
-                    print('***Epoch: %03d/%03d | Valid. Acc.: %.3f%% |  Loss: %.3f' % (
+                    print('***Epoch: %03d/%03d | Valid. Acc.: %.3f%% | Loss: %.3f' % (
                           epoch+1, num_epochs, valid_acc, valid_loss))
                     log_dict['valid_loss_per_epoch'].append(valid_loss.item())
                     log_dict['valid_loss_per_epoch'].append(valid_acc.item())
