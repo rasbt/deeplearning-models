@@ -1,4 +1,4 @@
-# Datasets
+# Delete Datasets
 png-files
 *-ubyte*
 pytorch_ipynb/viz/cnns/cats-and-dogs/dogs-vs-cats
@@ -8,7 +8,7 @@ pytorch_ipynb/rnn/yelp_review_polarity_csv/
 pytorch_ipynb/rnn/ag_news_csv/
 pytorch_ipynb/rnn/amazon_review_polarity_csv/
 HistoricalColor-ECCV2012*
-AFAD-Lite
+delete AFAD-Lite
 tarball*
 pytorch_ipynb/rnn/.data/
 pytorch_ipynb/rnn/.vector_cache/
@@ -82,7 +82,7 @@ var/
 *.manifest
 *.spec
 
-# Installer logs
+# delete Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
 
