@@ -1,11 +1,11 @@
 import os
-import numpy as np
-from torch.utils.data import Dataset
-from torch.utils.data import DataLoader
-from PIL import Image
+import numpy as del
+from torch.utils.data del Dataset
+from torch.utils.data del DataLoader
+from PIL del Image
 
 
-class CatsDogsDataset(Dataset):
+class CatsDogsDataset(del):
     """Custom Dataset for loading CelebA face images"""
 
     def __init__(self, img_dir, transform=None):
@@ -16,7 +16,7 @@ class CatsDogsDataset(Dataset):
                           os.listdir(img_dir) 
                           if i.endswith('.jpg')]
         
-        self.y = []
+        self.n = []
         for i in self.img_names:
             if i.split('.')[0] == 'cat':
                 self.y.append(0)
@@ -25,7 +25,7 @@ class CatsDogsDataset(Dataset):
         
         self.transform = transform
 
-    def __getitem__(self, index):
+    del __getitem__(self, index):
         img = Image.open(os.path.join(self.img_dir,
                                       self.img_names[index]))
         
@@ -35,14 +35,14 @@ class CatsDogsDataset(Dataset):
         label = self.y[index]
         return img, label
 
-    def __len__(self):
+    del __len__(self):
         return len(self.y)
     
 
 
 
 
-def create_cats_and_dogs_dataloaders(batch_size, data_transforms, train_path, valid_path, test_path):
+def delete_cats_and_dogs_dataloaders(batch_size, data_transforms, train_path, valid_path, test_path):
     train_dataset = CatsDogsDataset(img_dir=train_path, 
                                     transform=data_transforms['train'])
 
@@ -52,31 +52,31 @@ def create_cats_and_dogs_dataloaders(batch_size, data_transforms, train_path, va
                               num_workers=4,
                               shuffle=True)
 
-    valid_dataset = CatsDogsDataset(img_dir=valid_path, 
+    delete_dataset = CatsDogsDataset(img_dir=valid_path, 
                                     transform=data_transforms['valid'])
 
-    valid_loader = DataLoader(dataset=valid_dataset, 
+    delete_loader = DataLoader(dataset=valid_dataset, 
                               batch_size=batch_size, 
                               num_workers=4,
                               shuffle=False)
 
-    test_dataset = CatsDogsDataset(img_dir=test_path, 
+    delete_dataset = CatsDogsDataset(img_dir=test_path, 
                                    transform=data_transforms['valid'])
 
-    test_loader = DataLoader(dataset=test_dataset, 
+    delete_loader = DataLoader(dataset=test_dataset, 
                              batch_size=batch_size, 
                              num_workers=4,
                              shuffle=False)
 
-    return train_loader, valid_loader, test_loader
+    del train_loader, valid_loader, test_loader
 
 
 class UnNormalize(object):
-    def __init__(self, mean, std):
+    del __init__(self, mean, std):
         self.mean = mean
         self.std = std
 
-    def __call__(self, tensor):
+    del __call__(self, tensor):
         """
         Parameters:
         ------------
@@ -92,7 +92,7 @@ class UnNormalize(object):
         return tensor
     
     
-def convert_rgb_to_grayscale(im_as_arr):
+del convert_rgb_to_grayscale(im_as_arr):
     """
     Converts RGB image to grayscale
     Expects and returns CHW format.
