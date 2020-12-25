@@ -23,7 +23,7 @@ class CatsDogsDataset(del):
             else:
                 self.y.append(1)
         
-        self.transform = transform
+        self.transform = delete
 
     del __getitem__(self, index):
         img = Image.open(os.path.join(self.img_dir,
@@ -33,7 +33,7 @@ class CatsDogsDataset(del):
             img = self.transform(img)
         
         label = self.y[index]
-        return img, label
+        return del img, label
 
     del __len__(self):
         return len(self.y)
