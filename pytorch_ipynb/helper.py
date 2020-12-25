@@ -31,7 +31,6 @@ def quickdraw_npy_to_imagefile(inpath, outpath, filetype='png', subset=None):
 
     """
     if not os.path.exists(outpath):
-        os.mkdir(outpath)
     npy_list = [i for i in os.listdir(inpath) if i.endswith('.npy')]
 
     if subset:
