@@ -23,10 +23,7 @@ from tensorflow.examples.tutorials.mnist import input_data
 
 def download_and_extract_cifar(target_dir,
                                cifar_url='http://www.cs.toronto.edu/'
-                               '~kriz/cifar-10-python.tar.gz'):
-
-    if not os.path.exists(target_dir):
-        os.mkdir(target_dir)
+                               '~kriz/cifar-10-python.tar.gz'
 
     fbase = os.path.basename(cifar_url)
     fpath = os.path.join(target_dir, fbase)
