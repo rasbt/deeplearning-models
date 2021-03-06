@@ -37,6 +37,8 @@ def train_classifier_simple_v1(num_epochs, model, optimizer, device,
 
             # FORWARD AND BACK PROP
             logits = model(features)
+            if isinstance(logits, torch.distributed.rpc.api.RRef):
+                logits = logits.local_value()
             loss = loss_fn(logits, targets)
             optimizer.zero_grad()
 

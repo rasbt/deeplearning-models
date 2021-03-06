@@ -12,6 +12,8 @@ def compute_accuracy(model, data_loader, device):
             targets = targets.to(device)
 
             logits = model(features)
+            if isinstance(logits, torch.distributed.rpc.api.RRef):
+                logits = logits.local_value()
             _, predicted_labels = torch.max(logits, 1)
             num_examples += targets.size(0)
             correct_pred += (predicted_labels == targets).sum()
@@ -26,6 +28,8 @@ def compute_epoch_loss(model, data_loader, device):
             features = features.to(device)
             targets = targets.to(device)
             logits = model(features)
+            if isinstance(logits, torch.distributed.rpc.api.RRef):
+                logits = logits.local_value()
             loss = F.cross_entropy(logits, targets, reduction='sum')
             num_examples += targets.size(0)
             curr_loss += loss

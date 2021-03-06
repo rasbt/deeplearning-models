@@ -325,6 +325,8 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Using Multiple GPUs with DataParallel -- VGG-16 Gender Classifier on CelebA   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16-celeba-data-parallel.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16-celeba-data-parallel.ipynb)]
+- Distribute a Model Across Multiple GPUs with Pipeline Parallelism (VGG-16 Example) 
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mechanics/model-pipeline-vgg16.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mechanics/model-pipeline-vgg16.ipynb)]
 
 #### Other 
 
