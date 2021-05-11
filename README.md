@@ -52,10 +52,27 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/fc-to-conv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/fc-to-conv.ipynb)]
 
 
+
+---
+
+
+
+#### AlexNet
+
+- AlexNet on CIFAR-10   
+  &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb)]
+
+#### DenseNet
+
+- DenseNet-121 Digit Classifier Trained on MNIST   
+  &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb)]
+- DenseNet-121 Image Classifier Trained on CIFAR-10   
+  &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb)]
+
 #### Fully Convolutional
 
 - Fully Convolutional Neural Network   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-allconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-allconv.ipynb)]
+  &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-allconv.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-allconv.ipynb)]
 
 #### LeNet
 
@@ -66,14 +83,29 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - LeNet-5 on QuickDraw  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
 
-#### AlexNet
 
-- AlexNet on CIFAR-10   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb)]
+
+#### MobileNet
+
+- MobileNet-v2 on Cifar-10  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-mobilenet-v2-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
+  
+- MobileNet-v3 small on Cifar-10  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-mobilenet-v3-small-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
+
+- MobileNet-v3 large on Cifar-10  
+&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-mobilenet-v3-large-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
+
+
+
+#### Network in Network
+
+- Network in Network CIFAR-10 Classifier   
+  &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/nin-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10.ipynb)]  
 
 #### VGG
 
-- Convolutional Neural Network VGG-16 Trained on CIFAR-10
+- Convolutional Neural Network VGG-16 Trained on CIFAR-10  
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/cnn/cnn-vgg16.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/cnn/cnn-vgg16.ipynb)]  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16.ipynb)]
 - VGG-16 Gender Classifier Trained on CelebA   
@@ -82,13 +114,6 @@ A collection of various deep learning architectures, models, and tips for Tensor
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg16-cats-dogs.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg16-cats-dogs.ipynb)]
 - Convolutional Neural Network VGG-19   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-vgg19.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-vgg19.ipynb)]
-
-#### DenseNet
-
-- DenseNet-121 Digit Classifier Trained on MNIST   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb)]
-- DenseNet-121 Image Classifier Trained on CIFAR-10   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb)]
 
 #### ResNet
 
@@ -115,10 +140,11 @@ A collection of various deep learning architectures, models, and tips for Tensor
 - ResNet-152 Gender Classifier Trained on CelebA   
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-resnet152-celeba.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-resnet152-celeba.ipynb)]
 
-#### Network in Network
+---
 
-- Network in Network CIFAR-10 Classifier   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/nin-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/nin-cifar10.ipynb)]  
+
+
+
 
 ## Normalization Layers
 
@@ -365,5 +391,4 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Saving and Loading Trained Models -- from TensorFlow Checkpoint Files and NumPy NPZ Archives   
 &nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mechanics/saving-and-reloading-models.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mechanics/saving-and-reloading-models.ipynb)]
-
 
