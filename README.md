@@ -90,7 +90,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 #### MobileNet
 
 - MobileNet-v2 on Cifar-10  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-mobilenet-v2-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
+  &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-mobilenet-v2-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
   
 - MobileNet-v3 small on Cifar-10  
 &nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/cnn/cnn-mobilenet-v3-small-cifar10.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb)]
@@ -311,8 +311,12 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### PyTorch Lightning Examples
 
-- MLP in Lightning with TensorBoard  
+- MLP in Lightning with TensorBoard  -- continue training the last model  
 &nbsp;&nbsp; [PyTorch Lightning: [GitHub](pytorch_ipynb/lightning/lightning-mlp.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/lightning/lightning-mlp.ipynb)]
+- MLP in Lightning with TensorBoard  -- checkpointing best model  
+&nbsp;&nbsp; [PyTorch Lightning: [GitHub](pytorch_ipynb/lightning/lightning-mlp-best-model) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/lightning/lightning-mlp-best-model)]
+
+
 
 #### Custom Datasets
 
