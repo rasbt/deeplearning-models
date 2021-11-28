@@ -4,6 +4,8 @@
 
 A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 
+
+
 ## Traditional Machine Learning
 
 - Perceptron   
@@ -305,6 +307,12 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 
 ## PyTorch Workflows and Mechanics
+
+
+#### PyTorch Lightning Examples
+
+- MLP in Lightning with TensorBoard  
+&nbsp;&nbsp; [PyTorch Lightning: [GitHub](pytorch_ipynb/lightning/lightning-mlp.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/lightning/lightning-mlp.ipynb)]
 
 #### Custom Datasets
 
