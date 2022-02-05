@@ -19,12 +19,10 @@ A collection of various deep learning architectures, models, and tips for Tensor
 ## Multilayer Perceptrons
 
 
+
 - Multilayer Perceptron   [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-basic.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-basic.ipynb)
-
 - Multilayer Perceptron with Dropout   [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-dropout.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-dropout.ipynb)
-
 - Multilayer Perceptron with Batch Normalization [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-batchnorm.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-batchnorm.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-batchtnorm.ipynb)
-
 - Multilayer Perceptron with Backpropagation from Scratch  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)
 
 
