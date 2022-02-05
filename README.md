@@ -1,4 +1,3 @@
-![Python 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
 
 # Deep Learning Models
 
@@ -8,35 +7,25 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Traditional Machine Learning
 
-- Perceptron   
-&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/basic-ml/perceptron.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/perceptron.ipynb)]   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/perceptron.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/perceptron.ipynb)]
-- Logistic Regression  
-&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)]   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/logistic-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/logistic-regression.ipynb)]
-- Softmax Regression (Multinomial Logistic Regression)  
-&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/softmax-regression.ipynb)]   
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/softmax-regression.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression.ipynb)]  
-- Softmax Regression with MLxtend's plot_decision_regions on Iris  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb)]
+- Perceptron  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/perceptron.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/perceptron.ipynb)
+
+- Logistic Regression  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/logistic-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)
+
+- Softmax Regression (Multinomial Logistic Regression)  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb)
+
+- Softmax Regression with MLxtend's plot_decision_regions on Iris  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) 
 
 
 ## Multilayer Perceptrons
 
-- Multilayer Perceptron   
-&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mlp/mlp-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-basic.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-basic.ipynb)]  
-&nbsp;&nbsp; [PyTorch Lightning: [GitHub](pytorch-lightning_ipynb/mlp/mlp-basic.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch-lightning_ipynb/mlp/mlp-basic.ipynb)]
-- Multilayer Perceptron with Dropout   
-&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mlp/mlp-dropout.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-dropout.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-dropout.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-dropout.ipynb)]  
-&nbsp;&nbsp; [PyTorch Lightning: [GitHub](pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb)]
-- Multilayer Perceptron with Batch Normalization   
-&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-batchnorm.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)]
-- Multilayer Perceptron with Backpropagation from Scratch   
-&nbsp;&nbsp; [TensorFlow 1: [GitHub](tensorflow1_ipynb/mlp/mlp-lowlevel.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-lowlevel.ipynb)]  
-&nbsp;&nbsp; [PyTorch: [GitHub](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) | [Nbviewer](https://nbviewer.jupyter.org/github/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)]
+
+- Multilayer Perceptron   [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-basic.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-basic.ipynb)
+
+- Multilayer Perceptron with Dropout   [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-dropout.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-dropout.ipynb)
+
+- Multilayer Perceptron with Batch Normalization [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-batchnorm.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-batchnorm.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-batchtnorm.ipynb)
+
+- Multilayer Perceptron with Backpropagation from Scratch  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)
 
 
 ## Convolutional Neural Networks
