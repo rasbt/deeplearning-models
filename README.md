@@ -34,7 +34,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Basic
 
-- Convolutional Neural Network  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/cnn/cnn-basic.ipynb)
+- Convolutional Neural Network  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-basic.ipynb)  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/cnn/cnn-basic.ipynb)
 
 - Convolutional Neural Network with He Initialization [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-he-init.ipynb) 
 
