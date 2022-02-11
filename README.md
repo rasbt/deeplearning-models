@@ -54,9 +54,9 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### DenseNet
 
-- DenseNet-121 Digit Classifier Trained on MNIST [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) 
+- DenseNet-121 Digit Classifier Trained on MNIST [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-densenet121-mnist.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb) 
 
-- DenseNet-121 Image Classifier Trained on CIFAR-10 [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb) 
+- DenseNet-121 Image Classifier Trained on CIFAR-10 [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-densenet121-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb) 
 
 
 #### Fully Convolutional
