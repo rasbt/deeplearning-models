@@ -61,7 +61,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Fully Convolutional
 
-- Fully Convolutional Neural Network [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-allconv.ipynb) 
+- "All Convolutionl Net" -- A Fully Convolutional Neural Network [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-allconv.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-allconv.ipynb) 
 
 #### LeNet
 
