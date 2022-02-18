@@ -69,7 +69,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - LeNet-5 on CIFAR-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-lenet5-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-lenet5-cifar10.ipynb) 
 
-- LeNet-5 on QuickDraw [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb) 
+- LeNet-5 on QuickDraw  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-lenet5-quickdraw.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-lenet5-quickdraw.ipynb) 
 
 
 #### MobileNet
