@@ -78,7 +78,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - MobileNet-v3 small on Cifar-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-mobilenet-v3-small-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-mobilenet-v3-small-cifar10.ipynb) 
 
-- MobileNet-v3 large on Cifar-10 [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-mobilenet-v3-large-cifar10.ipynb) 
+- MobileNet-v3 large on Cifar-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-mobilenet-v3-large-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-mobilenet-v3-large-cifar10.ipynb) 
 
 
 #### Network in Network

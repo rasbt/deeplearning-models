@@ -156,7 +156,8 @@ def plot_confusion_matrix(conf_mat,
         for j in range(conf_mat.shape[1]):
             cell_text = ""
             if show_absolute:
-                cell_text += format(conf_mat[i, j], 'd')
+                num = conf_mat[i, j].astype(np.int64) 
+                cell_text += format(num, 'd')
                 if show_normed:
                     cell_text += "\n" + '('
                     cell_text += format(normed_conf_mat[i, j], '.2f') + ')'
