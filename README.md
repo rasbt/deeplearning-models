@@ -83,7 +83,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Network in Network
 
-- Network in Network CIFAR-10 Classifier [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/nin-cifar10.ipynb) 
+- Network in Network Trained on CIFAR-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-nin-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/nin-cifar10.ipynb) 
 
 #### VGG
 
