@@ -93,7 +93,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - VGG-16 Dogs vs Cats Classifier  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-cats-dogs.ipynb) 
 
-- Convolutional Neural Network VGG-19  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg19.ipynb) 
+- Convolutional Neural Network VGG-19  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg19.ipynb)  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg19.ipynb) 
 
 
 #### ResNet
