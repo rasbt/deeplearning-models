@@ -89,7 +89,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Convolutional Neural Network VGG-16 Trained on CIFAR-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg16.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/cnn/cnn-vgg16.ipynb)
 
-- VGG-16 Gender Classifier Trained on CelebA [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb) 
+- VGG-16 Smile Classifier Trained on CelebA [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb) 
 
 - VGG-16 Dogs vs Cats Classifier  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-cats-dogs.ipynb) 
 
