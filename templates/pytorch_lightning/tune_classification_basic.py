@@ -10,7 +10,6 @@ from pytorch_lightning.loggers import CSVLogger
 
 import torch
 from torch.utils.data import DataLoader
-import torchmetrics
 from torchvision import transforms
 from torchvision import datasets
 from torch.utils.data.dataset import random_split
@@ -21,6 +20,10 @@ def install(package):
 
 
 install("torchmetrics")
+
+
+import torchmetrics
+
 
 # Argparse helper
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)

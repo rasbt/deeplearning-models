@@ -3,5 +3,6 @@ grid run \
 --framework lightning \
 --gpus 2 \
 tune_classification_basic.py \
---learning_rate "uniform(1e-5, 1e-1, 5)" \
---batch_size "[64, 128, 256]"
+--learning_rate "[0.0001, 0.0005, 0.001, 0.005, 0.01, 0.05)" \
+--batch_size "[64, 128, 256]"\
+--epochs 20
