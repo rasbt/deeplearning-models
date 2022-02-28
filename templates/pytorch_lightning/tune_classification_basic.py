@@ -8,7 +8,7 @@ import pytorch_lightning as pl
 from pytorch_lightning.callbacks import ModelCheckpoint
 from pytorch_lightning.loggers import CSVLogger
 
-print('Lightning version', pytorch_lightning.__version__)
+print('Lightning version', pl.__version__)
 
 import torch
 from torch.utils.data import DataLoader
@@ -16,15 +16,6 @@ from torchvision import transforms
 from torchvision import datasets
 from torch.utils.data.dataset import random_split
 
-
-def install(package):
-    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
-
-
-install("torchmetrics")
-
-
-import torchmetrics
 
 
 # Argparse helper
