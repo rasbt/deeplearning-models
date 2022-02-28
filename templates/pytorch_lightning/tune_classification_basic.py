@@ -1,5 +1,8 @@
-import time
 import argparse
+import time
+import subprocess
+import sys
+
 
 import pytorch_lightning as pl
 from pytorch_lightning.callbacks import ModelCheckpoint
@@ -12,6 +15,12 @@ from torchvision import transforms
 from torchvision import datasets
 from torch.utils.data.dataset import random_split
 
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+
+install("torchmetrics")
 
 # Argparse helper
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
