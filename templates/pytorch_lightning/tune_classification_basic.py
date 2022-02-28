@@ -8,6 +8,8 @@ import pytorch_lightning as pl
 from pytorch_lightning.callbacks import ModelCheckpoint
 from pytorch_lightning.loggers import CSVLogger
 
+print('Lightning version', pytorch_lightning.__version__)
+
 import torch
 from torch.utils.data import DataLoader
 from torchvision import transforms
