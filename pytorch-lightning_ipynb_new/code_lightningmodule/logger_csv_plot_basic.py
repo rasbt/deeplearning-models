@@ -20,6 +20,3 @@ df_metrics[["train_acc", "valid_acc"]].plot(
 )
 
 plt.show()
-
-
-trainer.test(model=lightning_model, datamodule=data_module, ckpt_path="best")
