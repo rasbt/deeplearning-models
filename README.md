@@ -51,7 +51,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - AlexNet Trained on CIFAR-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-alexnet-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb) 
 
-- AlexNet with Grouped Convolutions Trained on CIFAR-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-alexnet-cifar10-grouped.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-alexnet-cifar10-grouped.ipynb) 
+- AlexNet with Grouped Convolutions Trained on CIFAR-10  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-alexnet-grouped-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-alexnet-grouped-cifar10.ipynb) 
 
 #### DenseNet
 
