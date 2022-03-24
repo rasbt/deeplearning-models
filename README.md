@@ -355,3 +355,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 - Saving and Loading Trained Models -- from TensorFlow Checkpoint Files and NumPy NPZ Archives  [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mechanics/saving-and-reloading-models.ipynb)
 
+## Related Libraries
+
+- TorchMetrics -- How do we use it, and what's the difference between .update() and .forward()?  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/related-libraries/torchmetrics-update-forward.ipynb) 
+
