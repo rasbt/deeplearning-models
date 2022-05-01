@@ -7,7 +7,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Traditional Machine Learning
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
 | Perceptron | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/perceptron.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/perceptron.ipynb) |
 | Logistic Regression | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/logistic-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)|
@@ -17,7 +17,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Multilayer Perceptrons
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
 | Multilayer Perceptron | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-basic.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-basic.ipynb) |
 | Multilayer Perceptron with Dropout | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-dropout.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-dropout.ipynb) |
@@ -31,7 +31,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Basic
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
 | Convolutional Neural Network | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-basic.ipynb)  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/cnn/cnn-basic.ipynb) |
 | CNN with He Initialization | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-he-init.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-he-init.ipynb)  |
@@ -40,7 +40,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Concepts
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Replacing Fully-Connnected by Equivalent Convolutional Layers | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/fc-to-conv.ipynb)  |
 
@@ -51,7 +51,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### AlexNet
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | AlexNet Trained on CIFAR-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-alexnet-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-alexnet-cifar10.ipynb) |
 | AlexNet with Grouped Convolutions Trained on CIFAR-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-alexnet-grouped-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-alexnet-grouped-cifar10.ipynb) |
@@ -69,13 +69,13 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Fully Convolutional
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | "All Convolutionl Net" -- A Fully Convolutional Neural Network | TBD |  TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-allconv.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-allconv.ipynb) |
 
 #### LeNet
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
 | LeNet-5 on MNIST | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-lenet5-mnist.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-lenet5-mnist.ipynb)  |
 | LeNet-5 on CIFAR-10  | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-lenet5-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-lenet5-cifar10.ipynb)  |
@@ -86,7 +86,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### MobileNet
 
-|Title | Description | Datasets | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
 | MobileNet-v2 on Cifar-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-mobilenet-v2-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-mobilenet-v2-cifar10.ipynb)  |
 | MobileNet-v3 small on Cifar-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-mobilenet-v3-small-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-mobilenet-v3-small-cifar10.ipynb)  |
@@ -97,14 +97,14 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Network in Network
 
-|Title | Description | Datasets | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Network in Network Trained on CIFAR-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-nin-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/nin-cifar10.ipynb)  |
 
 
 #### VGG
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Convolutional Neural Network VGG-16 Trained on CIFAR-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg16.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/cnn/cnn-vgg16.ipynb) |
 | VGG-16 Smile Classifier Trained on CelebA | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg16-celeba.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb)  |
@@ -116,7 +116,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### ResNet
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
 | ResNet and Residual Blocks | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/resnet-ex-1.ipynb)  |
 | ResNet-18 Digit Classifier Trained on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-mnist.ipynb)  |
@@ -137,19 +137,23 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Ordinal Regression and Deep Learning
 
-|Title | Description | Dataset | Notebooks |
+Please note that the following notebooks below provide reference implementations to use the respective methods. They are not performance benchmarks.
+
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
-| CORAL multilayer perceptron | Cement | Implementation of [Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation](https://www.sciencedirect.com/science/article/pii/S016786552030413X) 2020 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/CORAL_cement.ipynb) |
-| CORN multilayer perceptron | Cement | Implementation of [Deep Neural Networks for Rank-Consistent Ordinal Regression Based On Conditional Probabilities](https://arxiv.org/abs/2111.08851) 2022 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/CORN_cement.ipynb)  |
-| Reformulated squared-error multilayer perceptron | Cement | Implementation of [A simple squared-error reformulation for ordinal classification](https://arxiv.org/abs/1612.00775) 2016 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/beckham2016_cement.ipynb)  |
+| Baseline multilayer perceptron | Cement | A baseline multilayer perceptron for classification trained with the standard cross entropy loss | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/baseline_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/baseline-light_cement.ipynb) |
+| CORAL multilayer perceptron | Cement | Implementation of [Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation](https://www.sciencedirect.com/science/article/pii/S016786552030413X) 2020 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/CORAL_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/CORAL-light_cement.ipynb) |
+| CORN multilayer perceptron | Cement | Implementation of [Deep Neural Networks for Rank-Consistent Ordinal Regression Based On Conditional Probabilities](https://arxiv.org/abs/2111.08851) 2022 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/CORN_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/CORN-light_cement.ipynb) |
+| Binary extension multilayer perceptron | Cement | Implementation of [Ordinal Regression with Multiple Output CNN for Age Estimation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf) 2016 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/niu2016_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/niu2016-light_cement.ipynb) |
+| Reformulated squared-error multilayer perceptron | Cement | Implementation of [A simple squared-error reformulation for ordinal classification](https://arxiv.org/abs/1612.00775) 2016 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/beckham2016_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/beckham2016-light_cement.ipynb) |
 
-
+---
 
 
 
 ## Normalization Layers
 
-|Title | Description | Datasets | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | BatchNorm before and after Activation for Network-in-Network CIFAR-10 Classifier | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/nin-cifar10_batchnorm.ipynb)  |
 | Filter Response Normalization for Network-in-Network CIFAR-10 Classifier | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/nin-cifar10_filter-response-norm.ipynb)  |
@@ -158,7 +162,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Metric Learning
 
-|Title | Description | Datasets | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Siamese Network with Multilayer Perceptrons | TBD | TBD | [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/metric/siamese-1.ipynb) |
 
@@ -166,7 +170,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Fully-connected Autoencoders
 
-|Title | Description | Datasets | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Autoencoder (MNIST) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/autoencoder/ae-basic.ipynb) |
 | Autoencoder (MNIST) + Scikit-Learn Random Forest Classifier | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-basic-with-rf.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/autoencoder/ae-basic-with-rf.ipynb) |
@@ -178,7 +182,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Convolutional Autoencoders
 
-|Title | Description | Datasets | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
 | Convolutional Autoencoder with Deconvolutions / Transposed Convolutions | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-deconv.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/autoencoder/ae-deconv.ipynb) |
 | Convolutional Autoencoder with Deconvolutions and Continuous Jaccard Distance | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-deconv-jaccard.ipynb)  |
@@ -191,7 +195,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Variational Autoencoders
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Variational Autoencoder | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-var.ipynb)  |
 | Convolutional Variational Autoencoder | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-conv-var.ipynb)  |
@@ -200,7 +204,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Conditional Variational Autoencoders
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Conditional Variational Autoencoder (with labels in reconstruction loss) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-cvae.ipynb)  |
 | Conditional Variational Autoencoder (without labels in reconstruction loss) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/autoencoder/ae-cvae_no-out-concat.ipynb)  |
@@ -212,7 +216,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Generative Adversarial Networks (GANs)
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Fully Connected GAN on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/gan/gan.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/gan/gan.ipynb) |
 | Fully Connected Wasserstein GAN on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/gan/wgan-1.ipynb)  |
@@ -225,7 +229,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Graph Neural Networks (GNNs)
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Most Basic Graph Neural Network with Gaussian Filter on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/gnn/gnn-basic-1.ipynb)  |
 | Basic Graph Neural Network with Edge Prediction on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/gnn/gnn-basic-edge-1.ipynb)  |
@@ -240,7 +244,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Many-to-one: Sentiment Analysis / Classification
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | A simple single-layer RNN (IMDB) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/rnn/rnn_simple_imdb.ipynb)  |
 | A simple single-layer RNN with packed sequences to ignore padding characters (IMDB) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/rnn/rnn_simple_packed_imdb.ipynb)  |
@@ -255,7 +259,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Many-to-Many / Sequence-to-Sequence
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | A simple character RNN to generate new text (Charles Dickens) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/rnn/char_rnn-charlesdickens.ipynb) |
 
@@ -265,7 +269,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Tips and Tricks
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Cyclical Learning Rate  | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/tricks/cyclical-learning-rate.ipynb)  |
 | Annealing with Increasing the Batch Size (w. CIFAR-10 & AlexNet) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/tricks/cnn-alexnet-cifar10-batchincrease.ipynb)  |
@@ -276,14 +280,14 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ## Transfer Learning
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Transfer Learning Example (VGG16 pre-trained on ImageNet for Cifar-10)  | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/transfer/transferlearning-vgg16-cifar10-1.ipynb)  |
 
 
 ## Visualization and Interpretation
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Vanilla Loss Gradient (wrt Inputs) Visualization (Based on a VGG16 Convolutional Neural Network for Kaggle's Cats and Dogs Images) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/viz/cnns/cats-and-dogs/cnn-viz-grad__vgg16-cats-dogs.ipynb)  |
 | Guided Backpropagation (Based on a VGG16 Convolutional Neural Network for Kaggle's Cats and Dogs Images) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/viz/cnns/cats-and-dogs/cnn-viz-guided-backprop__vgg16-cats-dogs.ipynb)  |
@@ -295,7 +299,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### PyTorch Lightning Examples
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | MLP in Lightning with TensorBoard  -- continue training the last model | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/lightning/lightning-mlp.ipynb)  |
 | MLP in Lightning with TensorBoard  -- checkpointing best model | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/lightning/lightning-mlp-best-model)  |
@@ -305,7 +309,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Custom Datasets
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Custom Data Loader Example for PNG Files | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/custom-dataloader-png/custom-dataloader-example.ipynb)  |
 | Using PyTorch Dataset Loading Utilities for Custom Datasets -- CSV files converted to HDF5 | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/custom-data-loader-csv.ipynb)  |
@@ -320,7 +324,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Training and Preprocessing
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Generating Validation Set Splits | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/validation-splits.ipynb)  |
 | Dataloading with Pinned Memory | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-cifar10-pinmem.ipynb) |
@@ -333,7 +337,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Improving Memory Efficiency
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Gradient Checkpointing Demo (Network-in-Network trained on CIFAR-10) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/gradient-checkpointing-nin.ipynb)  |
 
@@ -347,7 +351,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Other 
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | PyTorch with and without Deterministic Behavior -- Runtime Benchmark | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/deterministic_benchmark.ipynb)  |
 | Sequential API and hooks | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/mlp-sequential.ipynb)  |
@@ -358,7 +362,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Autograd
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Getting Gradients of an Intermediate Variable in PyTorch | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/manual-gradients.ipynb)  |
 
@@ -380,7 +384,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### Training and Preprocessing
 
-|Title | Description | Dataset | Notebooks |
+|Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Saving and Loading Trained Models -- from TensorFlow Checkpoint Files and NumPy NPZ Archives | TBD | TBD | [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mechanics/saving-and-reloading-models.ipynb) |
 
@@ -389,4 +393,5 @@ A collection of various deep learning architectures, models, and tips for Tensor
 |Title | Description |  Notebooks |
 | --- | --- | --- | 
 | TorchMetrics | How do we use it, and what's the difference between .update() and .forward()? |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/related-libraries/torchmetrics-update-forward.ipynb)  |
+
 
