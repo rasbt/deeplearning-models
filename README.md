@@ -135,6 +135,17 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 ---
 
+## Ordinal Regression and Deep Learning
+
+|Title | Description | Dataset | Notebooks |
+| --- | --- | --- | --- |
+| CORAL multilayer perceptron | Cement | Implementation of [Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation](https://www.sciencedirect.com/science/article/pii/S016786552030413X) 2020 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/CORAL_cement.ipynb) |
+| CORN multilayer perceptron | Cement | Implementation of [Deep Neural Networks for Rank-Consistent Ordinal Regression Based On Conditional Probabilities](https://arxiv.org/abs/2111.08851) 2022 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/CORN_cement.ipynb)  |
+| Reformulated squared-error multilayer perceptron | Cement | Implementation of [A simple squared-error reformulation for ordinal classification](https://arxiv.org/abs/1612.00775) 2016 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/beckham2016_cement.ipynb)  |
+
+
+
+
 
 ## Normalization Layers
 
@@ -249,13 +260,6 @@ A collection of various deep learning architectures, models, and tips for Tensor
 | A simple character RNN to generate new text (Charles Dickens) | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/rnn/char_rnn-charlesdickens.ipynb) |
 
 
-## Ordinal Regression
-
-|Title | Description | Dataset | Notebooks |
-| --- | --- | --- | --- |
-| Ordinal Regression CNN -- CORAL w. ResNet34 on AFAD-Lite | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/ordinal-cnn-coral-afadlite.ipynb) |
-| Ordinal Regression CNN -- Niu et al. 2016 w. ResNet34 on AFAD-Lite | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/ordinal-cnn-niu-afadlite.ipynb)  |
-| Ordinal Regression CNN -- Beckham and Pal 2016 w. ResNet34 on AFAD-Lite | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/ordinal-cnn-beckham2016-afadlite.ipynb)  |
 
 
 
