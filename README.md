@@ -265,6 +265,17 @@ Please note that the following notebooks below provide reference implementations
 
 
 
+## Model Evaluation
+
+### K-Fold Cross-Validation
+
+|Title | Dataset | Description | Notebooks |
+| --- | --- | --- | --- |
+| Baseline CNN  | MNIST | A simple baseline with traditional train/validation/test splits | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/kfold/baseline-cnn-mnist.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/kfold/baseline-light-cnn-mnist.ipynb) |
+| K-fold with `pl_cross` | MNIST | A 5-fold cross-validation run using the `pl_cross` library | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/kfold/kfold-light-cnn-mnist.ipynb)  |
+
+
+
 
 
 ## Tips and Tricks
