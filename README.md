@@ -146,6 +146,7 @@ Please note that the following notebooks below provide reference implementations
 | CORN multilayer perceptron | Cement | Implementation of [Deep Neural Networks for Rank-Consistent Ordinal Regression Based On Conditional Probabilities](https://arxiv.org/abs/2111.08851) 2022 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/CORN_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/CORN-light_cement.ipynb) |
 | Binary extension multilayer perceptron | Cement | Implementation of [Ordinal Regression with Multiple Output CNN for Age Estimation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf) 2016 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/niu2016_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/niu2016-light_cement.ipynb) |
 | Reformulated squared-error multilayer perceptron | Cement | Implementation of [A simple squared-error reformulation for ordinal classification](https://arxiv.org/abs/1612.00775) 2016 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/beckham2016_cement.ipynb) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/beckham2016-light_cement.ipynb) |
+| Class distance weighted cross-entropy loss | Cement | Implementation of [Class Distance Weighted Cross-Entropy Loss for Ulcerative Colitis Severity Estimation](https://arxiv.org/abs/2202.05167) 2022 | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/ordinal/polat2022_cement.ipynb)  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/ordinal/polat2022-light_cement.ipynb) |
 
 ---
 
@@ -404,5 +405,4 @@ Please note that the following notebooks below provide reference implementations
 |Title | Description |  Notebooks |
 | --- | --- | --- | 
 | TorchMetrics | How do we use it, and what's the difference between .update() and .forward()? |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/related-libraries/torchmetrics-update-forward.ipynb)  |
-
 
