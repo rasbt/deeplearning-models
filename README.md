@@ -9,20 +9,20 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
-| Perceptron | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/perceptron.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/perceptron.ipynb) |
-| Logistic Regression | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/logistic-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)|
-| Softmax Regression (Multinomial Logistic Regression) | TBD | TBD |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb) |
-| Softmax Regression with MLxtend's plot_decision_regions on Iris | TBD | TBD |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) |
+| Perceptron | 2D toy data | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/perceptron.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/perceptron.ipynb) |
+| Logistic Regression | 2D toy data | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/logistic-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/logistic-regression.ipynb)|
+| Softmax Regression (Multinomial Logistic Regression) | MNIST | TBD |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/basic-ml/softmax-regression.ipynb) |
+| Softmax Regression with MLxtend's plot_decision_regions on Iris | Iris | TBD |  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/basic-ml/softmax-regression-mlxtend-1.ipynb) |
 
 
 ## Multilayer Perceptrons
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
-| Multilayer Perceptron | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-basic.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-basic.ipynb) |
-| Multilayer Perceptron with Dropout | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-dropout.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-dropout.ipynb) |
-|Multilayer Perceptron with Batch Normalization | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-batchnorm.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-batchnorm.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-batchtnorm.ipynb) |
-|Multilayer Perceptron with Backpropagation from Scratch | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)|
+| Multilayer Perceptron | MNIST | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-basic.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-basic.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-basic.ipynb) |
+| Multilayer Perceptron with Dropout | MNIST | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-dropout.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-dropout.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-dropout.ipynb) |
+|Multilayer Perceptron with Batch Normalization | MNIST | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/mlp/mlp-batchnorm.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-batchnorm.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-batchtnorm.ipynb) |
+|Multilayer Perceptron with Backpropagation from Scratch | MNIST | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/mlp/mlp-fromscratch__sigmoid-mse.ipynb)|
 
 
 
@@ -131,6 +131,13 @@ A collection of various deep learning architectures, models, and tips for Tensor
 | ResNet-152 Gender Classifier Trained on CelebA | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet152-celeba.ipynb)  |
 
 
+---
+
+## Transformers
+
+|Title | Dataset | Description | Notebooks |
+| --- | --- | --- | --- | 
+| Multilabel DistilBert | [Jigsaw Toxic Comment Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge) | DistilBert fine-tuning | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/resnet-ex-1.ipynb)  |
 
 
 ---
