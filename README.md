@@ -137,7 +137,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
-| Multilabel DistilBert | [Jigsaw Toxic Comment Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge) | DistilBert fine-tuning | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/resnet-ex-1.ipynb)  |
+| Multilabel DistilBert | [Jigsaw Toxic Comment Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge) | DistilBert fine-tuning | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/transformer/distilbert-multilabel.ipynb)  |
 
 
 ---
