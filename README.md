@@ -137,9 +137,10 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
-| Multilabel DistilBert | [Jigsaw Toxic Comment Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge) | DistilBert fine-tuning | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/transformer/distilbert-multilabel.ipynb)  |
-| DistilBert as feature extractor | IMDB movie review | DistilBert with skklearn random forest and logistic regression | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/transformer/1_distilbert-as-feature-extractor.ipynb)  |
-
+| Multilabel DistilBERT | [Jigsaw Toxic Comment Challenge](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge) | DistilBert fine-tuning | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/transformer/distilbert-multilabel.ipynb)  |
+| DistilBERT as feature extractor | IMDB movie review | DistilBert with skklearn random forest and logistic regression | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/transformer/1_distilbert-as-feature-extractor.ipynb)  |
+| Fine-tune DistilBERT I | IMDB movie review | Fine-tune only the last 2 layers of DistilBERT |  [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)]((pytorch-lightning_ipynb/transformer/distilbert-finetune-last-layers.ipynb)) |
+| Fine-tune DistilBERT II | IMDB movie review | Fine-tune the whole DistilBERT model| ![PyTorch](https://img.shields.io/badge/Py-Torch-red) ![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)  |
 
 ---
 
