@@ -107,7 +107,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
 | Convolutional Neural Network VGG-16 Trained on CIFAR-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg16.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16.ipynb) [![TensorFlow](https://img.shields.io/badge/Tensor-Flow1.0-orange)](tensorflow1_ipynb/cnn/cnn-vgg16.ipynb) |
-| VGG-16 Smile Classifier Trained on CelebA | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg16-celeba.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb)  |
+| VGG-16 Smile Classifier | [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg16-celeba.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-celeba.ipynb)  |
 | VGG-16 Dogs vs Cats Classifier | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg16-cats-dogs.ipynb)  |
 | Convolutional Neural Network VGG-19 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-vgg19.ipynb)  [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-vgg19.ipynb)  |
 
@@ -118,17 +118,17 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
-| ResNet and Residual Blocks | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/resnet-ex-1.ipynb)  |
-| ResNet-18 Digit Classifier Trained on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-mnist.ipynb)  |
-| ResNet-18 Gender Classifier Trained on CelebA | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-celeba-dataparallel.ipynb)  |
-| ResNet-34 Digit Classifier Trained on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-mnist.ipynb)  |
-| ResNet-34 Object Classifier Trained on QuickDraw | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-quickdraw.ipynb)  |
-| ResNet-34 Gender Classifier Trained on CelebA | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-celeba-dataparallel.ipynb)  |
-| ResNet-50 Digit Classifier Trained on MNIST | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet50-mnist.ipynb)  |
-| ResNet-50 Gender Classifier Trained on CelebA | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet50-celeba-dataparallel.ipynb)  |
-| ResNet-101 Gender Classifier Trained on CelebA | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet101-celeba.ipynb)  |
-| ResNet-101 Trained on CIFAR-10 | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet101-cifar10.ipynb)  |
-| ResNet-152 Gender Classifier Trained on CelebA | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet152-celeba.ipynb)  |
+| ResNet and Residual Blocks | [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/resnet-ex-1.ipynb)  |
+| ResNet-18 Digit Classifier| [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-mnist.ipynb)  |
+| ResNet-18 Gender Classifier | [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-celeba-dataparallel.ipynb)  |
+| ResNet-34 Digit Classifier | [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-mnist.ipynb)  |
+| ResNet-34 Object Classifier | [QuickDraw](https://quickdraw.withgoogle.com) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-quickdraw.ipynb)  |
+| ResNet-34 Gender Classifier| [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-celeba-dataparallel.ipynb)  |
+| ResNet-50 Digit Classifier| [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet50-mnist.ipynb)  |
+| ResNet-50 Gender Classifier | [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet50-celeba-dataparallel.ipynb)  |
+| ResNet-101 Gender Classifier| [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet101-celeba.ipynb)  |
+| ResNet-101| [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet101-cifar10.ipynb)  |
+| ResNet-152 Gender Classifier| [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet152-celeba.ipynb)  |
 
 
 ---
