@@ -288,6 +288,13 @@ Please note that the following notebooks below provide reference implementations
 
 
 
+## Data Augmentation
+
+| Title                      | Dataset | Description | Notebooks                                                    |
+| -------------------------- | ------- | ----------- | ------------------------------------------------------------ |
+| AutoAugment for Image Data | CIFAR-10     | Trains a ResNet-18 using AutoAugment         | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/data-augumentation/autoaugment/) |
+
+
 
 
 ## Tips and Tricks
