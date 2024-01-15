@@ -356,7 +356,7 @@ Please note that the following notebooks below provide reference implementations
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
-| PyTorch DataLoader State and Nested Iterations | Toy | Explains DataLoader behavior when in nested functions | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)]((pytorch_ipynb/mechanics/dataloader-nesting.ipynb))|
+| PyTorch DataLoader State and Nested Iterations | Toy | Explains DataLoader behavior when in nested functions | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/dataloader-nesting.ipynb)|
 | Generating Validation Set Splits | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/mechanics/validation-splits.ipynb)  |
 | Dataloading with Pinned Memory | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-cifar10-pinmem.ipynb) |
 | Standardizing Images | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-standardized.ipynb) |
