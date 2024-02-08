@@ -42,7 +42,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- |
-| Replacing Fully-Connnected by Equivalent Convolutional Layers | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/fc-to-conv.ipynb)  |
+| Replacing Fully-Connected by Equivalent Convolutional Layers | TBD | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/fc-to-conv.ipynb)  |
 
 
 
