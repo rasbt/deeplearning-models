@@ -60,7 +60,7 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 #### DenseNet
 
-|Title | Description | Daset | Notebooks |
+|Title | Description | dataset | Notebooks |
 | --- | --- | --- | --- | 
 | DenseNet-121 Digit Classifier Trained on MNIST | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-densenet121-mnist.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-densenet121-mnist.ipynb)  |
 | DenseNet-121 Image Classifier Trained on CIFAR-10 | TBD | TBD | [![PyTorch Lightning](https://img.shields.io/badge/PyTorch-Lightning-blueviolet)](pytorch-lightning_ipynb/cnn/cnn-densenet121-cifar10.ipynb) [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-densenet121-cifar10.ipynb)  |
