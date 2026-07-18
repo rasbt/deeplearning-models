@@ -119,13 +119,13 @@ A collection of various deep learning architectures, models, and tips for Tensor
 
 |Title | Dataset | Description | Notebooks |
 | --- | --- | --- | --- | 
-| ResNet and Residual Blocks | [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/resnet-ex-1.ipynb)  |
-| ResNet-18 Digit Classifier| [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-mnist.ipynb)  |
+| ResNet and Residual Blocks | [MNIST](https://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/resnet-ex-1.ipynb)  |
+| ResNet-18 Digit Classifier| [MNIST](https://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-mnist.ipynb)  |
 | ResNet-18 Gender Classifier | [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet18-celeba-dataparallel.ipynb)  |
-| ResNet-34 Digit Classifier | [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-mnist.ipynb)  |
+| ResNet-34 Digit Classifier | [MNIST](https://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-mnist.ipynb)  |
 | ResNet-34 Object Classifier | [QuickDraw](https://quickdraw.withgoogle.com) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-quickdraw.ipynb)  |
 | ResNet-34 Gender Classifier| [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet34-celeba-dataparallel.ipynb)  |
-| ResNet-50 Digit Classifier| [MNIST](http://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet50-mnist.ipynb)  |
+| ResNet-50 Digit Classifier| [MNIST](https://yann.lecun.com/exdb/mnist/) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet50-mnist.ipynb)  |
 | ResNet-50 Gender Classifier | [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet50-celeba-dataparallel.ipynb)  |
 | ResNet-101 Gender Classifier| [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet101-celeba.ipynb)  |
 | ResNet-101| [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) | TBD | [![PyTorch](https://img.shields.io/badge/Py-Torch-red)](pytorch_ipynb/cnn/cnn-resnet101-cifar10.ipynb)  |
